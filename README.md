@@ -3,7 +3,8 @@ Social networks in Hanoch Levin Plays
 
 
 I case that you got a tsv file with all the plays html code named hanochlevin.tsv:
-  put the python code and the tsv file in the same directory and run python main.py
+  put the python code and the tsv file in the same directory and run python main.py.
+  
    you can run it with the options:
    
    
