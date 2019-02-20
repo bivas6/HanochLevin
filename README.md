@@ -1,6 +1,8 @@
 # HanochLevin
 Social networks in Hanoch Levin Plays 
 
+The project was conducted as part of the course "Digital Humanities for CS Students" https://www.cs.bgu.ac.il/~dhcs191/Main   and inspired by this project: https://github.com/lehkost/dramavis
+
 Every node in the graph represent a character in the play. The size of each node determined by the importency of the character. Edge between characters mean connection - they appear together in the same scene. The width of the edges determined by how 'strong' the connection.
 
 In case that you got a tsv file with all the plays html code named hanochlevin.tsv:
